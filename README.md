@@ -1,4 +1,4 @@
 # Hello!
-Currently working on [Calcula](https://github.com/gladiusglad/calcula-core) in C#.
+Currently working on [my website](https://gladiusglad.github.io) in Next.js.
 
 https://gladiusglad.github.io
